@@ -26,5 +26,3 @@ Paste your raw inventory + constraints, then invoke:
 - Skill 01 → Skill 02 → Skill 03 → Skill 04
 Optionally, enable Skill 05 if you have an MCP nutrition server available.
 
-## Notes
-Skills are designed for **on-demand, personal workflows**. If you need fully automated background execution, use a workflow engine (e.g., n8n).
